@@ -1,0 +1,7 @@
+*~
+*.pyc
+docs/_build/*
+uploads
+resell/conf/local/*.py
+dev.db
+resell.egg-info
